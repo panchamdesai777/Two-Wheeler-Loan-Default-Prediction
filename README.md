@@ -40,3 +40,5 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 3. Machine Learning Modelling.
 4. Model Explainability.
 5. HTML, Css & flask.
+
+### Linkedin : https://www.linkedin.com/posts/pancham-desai-7a9357188_finally-after-working-hard-for-past-1-month-activity-6712290023468875776-buyN
