@@ -29,7 +29,7 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 
 1. Created a website using HTML & CSS 
 2. Integrated the ML model with frontend using flask
-3. Deployed the we application in Heroku app server 
+3. Deployed the web application in Heroku app server 
 
 ## Things to learn from the project :
 
