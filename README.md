@@ -30,6 +30,26 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 2. Integrated the ML model with frontend using flask
 3. Deployed the web application in Heroku app server 
 
+## Test Values to try for website
+
+* Customer Related information
+1.Disbursed Amount - 41094
+2.Asset cost - 65687
+3.LTV -63.48
+
+* Vehicle Related information
+
+1.Branch id - 34 
+2. Employment Type -2
+3. State Id -992
+
+* Customer Related Information
+1 Total Current Balance-0
+2. Total Accounts - 1
+3. Delinquent Accts in last 6 mnths - 0
+4. perform cns score -825
+5. Age-34
+
 
 ### Link To Website : https://loandefault2-api.herokuapp.com/
 
