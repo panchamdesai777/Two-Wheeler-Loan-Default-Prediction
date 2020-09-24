@@ -10,11 +10,11 @@ Financial institutions incur significant losses due to the default of vehicle lo
 
 Loanee Information (Demographic data like age, income, Identity proof etc.) Loan Information (Disbursal details, amount, EMI, loan to value ratio etc.) Bureau data & history (Bureau score, number of active accounts, the status of other loans, credit history etc.) Doing so will ensure that clients capable of repayment are not rejected and important determinants can be identified which can be further used for minimising the default rates.
 
-## Evaluation Metric
+## Evaluation Metric  <br/>
 
 * ROC-AUC Score
 
-## Approach Taken To Solve The problem
+## Approach Taken To Solve The problem  <br/>
 
 1. Collecting Data from publicly availaible website <br/>
 2. Data Preprocessing <br/>
@@ -26,29 +26,29 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 
 ## Creating Customer Interface for the project
 
-1. Created a website using HTML & CSS 
-2. Integrated the ML model with frontend using flask
-3. Deployed the web application in Heroku app server 
+1. Created a website using HTML & CSS  <br/>
+2. Integrated the ML model with frontend using flask  <br/>
+3. Deployed the web application in Heroku app server  <br/>
 
 ## Test Values to try for website
 
-* Customer Related information
-1.Disbursed Amount - 41094
-2.Asset cost - 65687
-3.LTV -63.48
+* Customer Related information  <br/>
+1. Disbursed Amount - 41094  <br/>
+2. Asset cost - 65687   <br/>
+3. LTV -63.48   <br/>
 
 * Vehicle Related information
 
-1.Branch id - 34 
-2. Employment Type -2
-3. State Id -992
+1. Branch id - 34  <br/>
+2. Employment Type -2  <br/>
+3. State Id -992  <br/>
 
 * Customer Related Information
-1 Total Current Balance-0
-2. Total Accounts - 1
-3. Delinquent Accts in last 6 mnths - 0
-4. perform cns score -825
-5. Age-34
+1 Total Current Balance-0  <br/>
+2. Total Accounts - 1  <br/>
+3. Delinquent Accts in last 6 mnths - 0  <br/>
+4. perform cns score -825  <br/>
+5. Age-34  <br/>
 
 
 ### Link To Website : https://loandefault2-api.herokuapp.com/
