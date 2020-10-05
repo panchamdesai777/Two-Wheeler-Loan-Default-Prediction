@@ -44,6 +44,7 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 3. State Id -992  <br/>
 
 * Customer Related Information
+
 1 Total Current Balance-0  <br/>
 2. Total Accounts - 1  <br/>
 3. Delinquent Accts in last 6 mnths - 0  <br/>
