@@ -52,8 +52,6 @@ Loanee Information (Demographic data like age, income, Identity proof etc.) Loan
 5. Age-34  <br/>
 
 
-### Link To Website : https://loandefault2-api.herokuapp.com/
-
 ## Things to learn from the project :
 
 1. Data preprocessing.
